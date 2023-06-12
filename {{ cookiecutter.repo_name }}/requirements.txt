@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+session_info
+python-dotenv
+scipy
