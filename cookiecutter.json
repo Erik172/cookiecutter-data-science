@@ -3,6 +3,5 @@
     "project_name": "Data Science Project",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_').replace('.', '_').replace('(', '').replace(')', '') }}",
     "project_short_description": "A short description of the project.",
-    "author_name": "Erik Garcia",
     "author_username": "Erik172"
 }
