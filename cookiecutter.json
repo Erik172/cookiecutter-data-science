@@ -1,0 +1,8 @@
+{
+    "repo_name": "data science",
+    "project_name": "Data Science Project",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_').replace('.', '_').replace('(', '').replace(')', '') }}",
+    "cookiecutter.project_short_description": "A short description of the project.",
+    "cookiecutter.author_name": "Erik Garcia",
+    "cookiecutter.author_username": "Erik172"
+}
